@@ -6,3 +6,5 @@ docker run docker-test
 docker login
 USING WEB-BASED LOGIN
 To sign in with credentials on the command line, use 'docker login -u <username>'
+// Docker image upload process
+docker tag b7df12ecbf7b sakhawatcse/docker-test:v1
