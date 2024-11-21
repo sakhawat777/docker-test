@@ -4,3 +4,5 @@ docker build -t docker-test .
 docker run docker-test
 // For login:
 docker login
+USING WEB-BASED LOGIN
+To sign in with credentials on the command line, use 'docker login -u <username>'
