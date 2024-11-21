@@ -14,3 +14,5 @@ docker images or docker image ls
 
 // Docker image push command
 docker push sakhawatcse/docker-test:v1
+// For Pull
+docker pull sakhawatcse/docker-test:v1
