@@ -11,3 +11,6 @@ To sign in with credentials on the command line, use 'docker login -u <username>
 docker tag b7df12ecbf7b sakhawatcse/docker-test:v1
 // docker list
 docker images or docker image ls
+
+// Docker image push command
+docker push sakhawatcse/docker-test:v1
